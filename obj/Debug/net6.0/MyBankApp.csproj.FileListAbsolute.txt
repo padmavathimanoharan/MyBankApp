@@ -1,0 +1,15 @@
+C:\Users\padma\source\repos\MyBankApp\bin\Debug\net6.0\MyBankApp.exe
+C:\Users\padma\source\repos\MyBankApp\bin\Debug\net6.0\MyBankApp.deps.json
+C:\Users\padma\source\repos\MyBankApp\bin\Debug\net6.0\MyBankApp.runtimeconfig.json
+C:\Users\padma\source\repos\MyBankApp\bin\Debug\net6.0\MyBankApp.dll
+C:\Users\padma\source\repos\MyBankApp\bin\Debug\net6.0\MyBankApp.pdb
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.csproj.AssemblyReference.cache
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.AssemblyInfoInputs.cache
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.AssemblyInfo.cs
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.csproj.CoreCompileInputs.cache
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.dll
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\refint\MyBankApp.dll
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.pdb
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\MyBankApp.genruntimeconfig.cache
+C:\Users\padma\source\repos\MyBankApp\obj\Debug\net6.0\ref\MyBankApp.dll
